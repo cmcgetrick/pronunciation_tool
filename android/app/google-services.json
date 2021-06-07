@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408885305106",
+    "project_id": "pronounce-e1596",
+    "storage_bucket": "pronounce-e1596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408885305106:android:42b7b964a8b4d63162ddcb",
+        "android_client_info": {
+          "package_name": "com.fyp.flutter_speech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408885305106-vbcu67256p82lgj0vmopuabvbv3sj31e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZLBPUO_oiFNVe9nytduLaZj5UNNcx0uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408885305106-vbcu67256p82lgj0vmopuabvbv3sj31e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
